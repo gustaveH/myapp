@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 //react components
 const App = function () {
-  return <div>Hi there!</div>;
+  return <h5>Netlify is cool</h5>;
 };
 //take the react component and show it to screen
 
